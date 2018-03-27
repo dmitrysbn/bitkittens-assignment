@@ -22,16 +22,26 @@ main {
 }
 
 #cat1 {
-  top: 360px;
-  left: 110px;
+  top: 420px;
+  left: 250px;
 }
 
 #cat2 {
-  top: 240px;
-  right: 150px;
+  top: 230px;
+  right: 290px;
 }
 
 #cat3 {
-  top: 440px;
-  right: 210px;
+  top: 450px;
+  right: 340px;
+}
+
+#cat4 {
+  top: 150px;
+  left: 150px;
+}
+
+#cat5 {
+  top: 215px;
+  right: 580px;
 }
